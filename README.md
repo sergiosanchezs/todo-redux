@@ -1,8 +1,10 @@
-Todo Project: You can load data from a default API. Add, Remove or Mark the task as completed.
+# Todo App
 
-Technology stack
+#### Todo Project: You can load data from a default API. Add, Remove or Mark the task as completed.
 
-React
-Redux
-TypeScript
-JavaScript
+#### Technology stack
+
+- React
+- Redux
+- TypeScript
+- JavaScript
